@@ -1,5 +1,5 @@
 # MNIST_Practise
-通过MNIST来加强对Keras的了解
+通过识别MNIST来加强对Keras的了解
 
 #不是什么新鲜的玩意，就是用来熟悉Keras，相关的介绍都放在知乎啦。
 
